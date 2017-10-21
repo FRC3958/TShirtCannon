@@ -362,6 +362,124 @@
 				<Property Name="TgtF_targetfileGUID" Type="Str">{E56FB585-6339-4061-A047-A99719EA0231}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Application.exe</Property>
 			</Item>
+			<Item Name="Dashboard Main3" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{EBD8B504-5083-4888-B85B-833AA69DABD7}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{5684237E-3C5A-4083-9895-C7B8BD72B3EF}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{F55022EB-EC35-480E-8740-BBD529A4762C}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Dashboard Main3</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Program Files (x86)/FRC Dashboard</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{829C3FEE-FEBF-44E0-8E3F-C294414919E9}</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Program Files (x86)/FRC Dashboard/Dashboard.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Program Files (x86)/FRC Dashboard/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{3B5B9224-6E30-40C4-B6B2-5B45B904C52E}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dashboard Main.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">BC High Robotics</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Dashboard Main3</Property>
+				<Property Name="TgtF_internalName" Type="Str">Dashboard Main3</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 BC High Robotics</Property>
+				<Property Name="TgtF_productName" Type="Str">Dashboard Main3</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{8F53AEDD-E0AA-4A9D-8269-AC8CFF9B9406}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Dashboard.exe</Property>
+			</Item>
+			<Item Name="Dashboard Main4" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{0FC44807-9C2F-4B44-8B9A-BBE61B5A5CC7}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{113A0FA2-1BAC-4C65-B1D4-3A1DFC443599}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{2D16D674-0416-4A1E-A382-BF38D9EE355C}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Dashboard Main4</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Program Files (x86)/FRC Dashboard/Dashboard.exe</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{854FC31E-B8AC-4178-B1FF-C5A77DA62CEB}</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Program Files (x86)/FRC Dashboard/Dashboard.exe/Dashboard.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Program Files (x86)/FRC Dashboard/Dashboard.exe/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{3B5B9224-6E30-40C4-B6B2-5B45B904C52E}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dashboard Main.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">BC High Robotics</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Dashboard Main4</Property>
+				<Property Name="TgtF_internalName" Type="Str">Dashboard Main4</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 BC High Robotics</Property>
+				<Property Name="TgtF_productName" Type="Str">Dashboard Main4</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{1F240580-C2CD-41C9-931E-1EAEAF021852}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Dashboard.exe</Property>
+			</Item>
+			<Item Name="Dashboard Main5" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{3142D429-40EB-4F2B-B11F-24C89ACC0EC1}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{99F8C3C2-235A-412E-8591-AC57B47093F3}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{3961A5E6-9B29-4904-8F70-36EDDB183292}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Dashboard Main5</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Peter/Desktop/Dashoard T Shirt</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{3479769F-8C55-4776-AEE2-617657890C30}</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/Peter/Desktop/Dashoard T Shirt/Dashboard.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Users/Peter/Desktop/Dashoard T Shirt/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E873F596-FB7C-44FD-8A71-AD5F51219DE0}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dashboard Main.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">BC High Robotics</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Dashboard Main5</Property>
+				<Property Name="TgtF_internalName" Type="Str">Dashboard Main5</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 BC High Robotics</Property>
+				<Property Name="TgtF_productName" Type="Str">Dashboard Main5</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{12F8FDB7-48F4-43EC-8A84-FC902CC629C2}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Dashboard.exe</Property>
+			</Item>
 		</Item>
 	</Item>
 </Project>
